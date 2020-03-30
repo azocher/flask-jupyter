@@ -124,7 +124,7 @@ if request.method == 'POST':
 	return render_template('dataDisplay.html', table=data_response_method)
 ```
 
-### Conclusion
+## 🎬 Conclusion
 
 Work between Data Scientists and Software Engineers involves a very unique venn diagram of tools and languages. In this example we have assumed that a Data Scientist will be working in *Jupyter* and a Software Engineer is working primarily in Python/*Flask*, but our options for powerful cross-functional work continue to expand as tools improve. 
 
